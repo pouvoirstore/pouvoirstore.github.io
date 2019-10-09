@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2019 19:38:53 at https://officialpouvoirsto.wixsite.com/home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://officialpouvoirsto.wixsite.com/home* +*https://officialpouvoirsto.wixsite.com/home*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "de, en, *" https://officialpouvoirsto.wixsite.com/home -O1 "C:\Users\Luca Leon Fydrich\Desktop\Ordner\clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://officialpouvoirsto.wixsite.com/home* +*https://officialpouvoirsto.wixsite.com/home* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:38:54	Warning: 	Note: due to https://officialpouvoirsto.wixsite.com remote robots.txt rules, links beginning with these path will be forbidden: /api/, /bo/, /editor.jsp, /noflashhtml, /siteBackHtml, /wix/, /wixpress/, /wixdemo/, /wix-editor/, /editor2.jsp, /flash/, /flash-templates/, /jobs/seo/, /website-template/view/flash/, /facebook-template/, /facebook/templates/, /website/templates/flash/, /favicon.ico (see in the options to disable this)
+19:39:01	Error: 	"Not Found" (404) at link https://officialpouvoirsto.wixsite.com/sitemap.xml (from https://officialpouvoirsto.wixsite.com/home)
+19:39:01	Error: 	"Not Found" (404) at link https://officialpouvoirsto.wixsite.com/feed.xml (from https://officialpouvoirsto.wixsite.com/home)
+19:39:09	Error: 	"Not Found" (404) at link https://officialpouvoirsto.wixsite.com/home/produktseite/feed.xml (from https://officialpouvoirsto.wixsite.com/home/produktseite/pouvoir-t-shirt-black)
+19:39:09	Error: 	"Not Found" (404) at link https://officialpouvoirsto.wixsite.com/home/robots.txt (from https://officialpouvoirsto.wixsite.com/home/shop)
+19:39:09	Error: 	"Not Found" (404) at link https://officialpouvoirsto.wixsite.com/home/feed.xml (from https://officialpouvoirsto.wixsite.com/home/shop)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 47 links scanned, 41 files written (6177649 bytes overall) [3089389 bytes received at 193086 bytes/sec], 3898065 bytes transferred using HTTP compression in 23 files, ratio 19%, 1.5 requests per connection
+(5 errors, 1 warnings, 0 messages)

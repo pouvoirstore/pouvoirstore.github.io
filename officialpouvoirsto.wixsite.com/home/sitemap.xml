@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://officialpouvoirsto.wixsite.com/home</loc>
+        <priority>1.0</priority>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://officialpouvoirsto.wixsite.com/home/produktseite/pouvoir-t-shirt-black</loc>
+        <priority>0.5</priority>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://officialpouvoirsto.wixsite.com/home/produktseite/pouvoir-white-tshirt</loc>
+        <priority>0.5</priority>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://officialpouvoirsto.wixsite.com/home/shop</loc>
+        <priority>0.5</priority>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>

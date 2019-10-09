@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+officialpouvoirsto.wixsite.com	TRUE	/home	FALSE	1999999999	svSession	56f1c1242c0a175239058e1b3e403ab09ff335c72f302b19dd56ec999bd1103150e2c8feaae3bf8ff684799aac01f5a01e60994d53964e647acf431e4f798bcd41c6422e9e2ffbd01b616469a324f9c721486c5e0b993845239b9dbd19f5d30b
+officialpouvoirsto.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1570642732|Uwlc0agMW3FA
+officialpouvoirsto.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1536623925
+officialpouvoirsto.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=hit"
+
